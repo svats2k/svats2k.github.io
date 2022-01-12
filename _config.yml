@@ -23,7 +23,7 @@ email: srivatsa.srinath@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Most of our lives revolves around doing what we already know or comfortable with.
   The only way to find meaning in life is to explore and get closer to ones true calling. 
-  THrough these pages I would like to share my journey and the things I have learn as I 
+  Through these pages I would like to share my journey and the things I have learn as I 
   have tried to reboot my career and perspectives in life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
